@@ -60,7 +60,7 @@ It demonstrates:
 
 | Task Manager | API Data Viewer | Dark Mode |
 |---------------|----------------|------------|
-| ![Task Manager Screenshot](./assets/screenshots/task-manager.png) | ![API Data Screenshot](./assets/screenshots/api-data.png) | ![Dark Mode Screenshot](./assets/screenshots/dark-mode.png) |
+| ![Task Manager Screenshot](https://github.com/festuskyalomutua/https-github.com-PLP-MERN-Stack-Development-react-js-jsx-and-css-mastering-front-end-development/blob/main/Task%20manager.PNG) | ![API Data Screenshot](./assets/screenshots/api-data.png) | ![Dark Mode Screenshot](./assets/screenshots/dark-mode.png) |
 
 *(Add your actual screenshots in `src/assets/screenshots/` and update the links.)*
 
@@ -70,7 +70,7 @@ It demonstrates:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/react-task-manager.git
+git clone https://github.com/festuskyalomutua/react-task-manager.git
 cd react-task-manager
 2️⃣ Install Dependencies
 bash
