@@ -89,7 +89,7 @@ npm run build
 Output will be generated in the /dist folder.
 
 🌐 Live Demo
-🔗 Deployed on Vercel: https://your-project-name.vercel.app
+🔗 Deployed on github pages: https://festuskyalomutua.github.io/https-github.com-PLP-MERN-Stack-Development-react-js-jsx-and-css-mastering-front-end-development/
 
 (Replace with your actual deployed URL)
 
